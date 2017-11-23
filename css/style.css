@@ -1,0 +1,17 @@
+html, body {
+    position: absolute;
+    margin: 0;
+    width: 100%;
+}
+#hi{
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+}
+#hi a {
+    color: #fff;
+    font-size: 80px;
+    text-decoration: none;		
+    font-family: Lobster;
+}
